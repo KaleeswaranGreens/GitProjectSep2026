@@ -6,7 +6,6 @@ public class Employee{
 
   public void empId(){
     System.out.println("Employee Id is : 200");
-  }
 
   public void empAddress(){
     System.out.println("Employee Address is : Chennai");
