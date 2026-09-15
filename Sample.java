@@ -1,11 +1,11 @@
 public class Employee{
 
   public void empName(){
-    System.out.println("Employee Name is : Balaji");
+    System.out.println("Employee Name is : Jeeva");
   }
 
   public void empId(){
-    System.out.println("Employee Id is : 209");
+    System.out.println("Employee Id is : 200");
   }
 
   public void empAddress(){
